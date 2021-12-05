@@ -1,2 +1,4 @@
 ## Hi there, I'm Rachel!
-### I'm a data science major at Purdue University
+### I am a data science major currently studying at Purdue University.
+
+![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjpfeife&theme=solarized-light&show_icons=true)
